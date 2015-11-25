@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Penst
+        psr4_prefix: Penst
+        src_path: app
